@@ -1,1 +1,2 @@
-# TIMINGGAME
+###### TIMINGGAME
+######ALTERAの実験ボードのシミュなので、カルタス関係ないです（笑）
